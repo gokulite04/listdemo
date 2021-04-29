@@ -10,7 +10,10 @@ public class LinkedListDemo {
         
   int a=10;
   int c=15;
+<<<<<<< HEAD
   int e=20;
+=======
+>>>>>>> f09bcbe... add variable c
         ll.add("A");
         ll.add("B");
         ll.addLast("C");
