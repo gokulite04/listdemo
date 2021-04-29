@@ -9,7 +9,7 @@ public class LinkedListDemo {
         LinkedList<String> ll = new LinkedList<String>();
         
   int a=10;
-
+  int c=15;
         ll.add("A");
         ll.add("B");
         ll.addLast("C");
