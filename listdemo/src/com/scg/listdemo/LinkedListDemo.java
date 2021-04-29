@@ -10,6 +10,7 @@ public class LinkedListDemo {
         
   int a=10;
   int c=15;
+  int e=20;
         ll.add("A");
         ll.add("B");
         ll.addLast("C");
